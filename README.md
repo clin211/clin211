@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changlin93&show_icons=true&theme=merko&count_private=true)
