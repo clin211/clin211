@@ -39,8 +39,8 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 - 📫  How to reach me **767425412lin@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<h2>frontend</h2>
+<h2 align="left">Languages and Tools:</h2>
+<!-- <h2>frontend</h2> -->
 <p style="display: flex; flex-wrap: wrap">
     <a
         href="https://www.w3.org/html/"
