@@ -66,7 +66,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 width="60"
                 height="60"
             />
-            <h5
+            <span
                 style="
                     margin-top: 10px;
                     height: 4.5em;
@@ -78,7 +78,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 "
             >
                 HTML5
-            </h5>
+            </span>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank">
             <img
@@ -87,7 +87,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 width="60"
                 height="60"
             />
-            <h5
+            <span
                 style="
                     margin-top: 10px;
                     height: 4.5em;
@@ -99,7 +99,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 "
             >
                 CSS3
-            </h5>
+            </span>
         </a>
     </p>
 </div>
