@@ -39,8 +39,8 @@ How to reach me **767425412lin@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img style="border: 1px solid #ccc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+    <a style="border: 1px solid #ccc" href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="60" height="60" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
