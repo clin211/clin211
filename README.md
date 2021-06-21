@@ -41,7 +41,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 
 
 <div>
-    <h3>frontend</h3>
+    <h2>frontend</h2>
     <div style="display: flex; flex-wrap: wrap">
         <a
             href="https://www.w3.org/html/"
