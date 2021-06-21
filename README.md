@@ -46,7 +46,6 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
         href="https://www.w3.org/html/"
         target="_blank"
         style="
-            position: relative;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -66,19 +65,6 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
             width="60"
             height="60"
         />
-<!--             <span
-            style="
-                margin-top: 10px;
-                height: 4.5em;
-                width: 100%;
-                overflow: hidden;
-                font-size: 12px;
-                line-height: 1;
-                color: #808695;
-            "
-        >
-            HTML5
-        </span> -->
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img
@@ -87,17 +73,6 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
             width="60"
             height="60"
         />
-<!--             <span
-            style="margin-top: 10px;
-                height: 4.5em;
-                width: 100%;
-                overflow: hidden;
-                font-size: 12px;
-                line-height: 1;
-                color: #808695;"
-        >
-            CSS3
-        </span> -->
     </a>
 </p>
 
