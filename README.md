@@ -48,7 +48,10 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
             target="_blank"
             style="
                 position: relative;
-                display: block;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
                 padding: 10px;
                 border: 1px solid #eaeaea;
                 transform: translate(0);
