@@ -150,9 +150,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="45" height="45" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="45" height="45" />
@@ -160,13 +157,16 @@ Here are some ideas to get you started:
     <a href="https://www.jenkins.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://vuepress.vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-            alt="vuepress" width="45" height="45" />
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://vitepress.vuejs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
             alt="vitepress" width="45" height="45" />
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://vuepress.vuejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
+            alt="vuepress" width="45" height="45" />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
