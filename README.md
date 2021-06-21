@@ -296,7 +296,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 
 <p>
     <img
-        align="left"
+         style="display: block"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=changlin93&show_icons=true&locale=en&layout=compact≈"
         alt="changlin93"
     />
@@ -305,7 +305,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;<img
-        align="center"
+        style="display: block"
         src="https://github-readme-stats.vercel.app/api?username=changlin93&show_icons=true&locale=en&theme=merko"
         alt="changlin93"
     />
@@ -314,7 +314,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 
 <p>
     <img
-        align="center"
+         style="display: block"
         src="https://github-readme-streak-stats.herokuapp.com/?user=changlin93&"
         alt="changlin93"
     />
