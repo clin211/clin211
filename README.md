@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🔭  &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
 🌱 &nbsp;&nbsp; I’m currently learning **React Native and Go** <br/>
-👨‍💻 &nbsp;&nbsp; All of my projects are available at[repositories](https://github.com/changlin93?tab=repositories) <br/>
+👨‍💻 &nbsp;&nbsp; All of my projects are available at [repositories](https://github.com/changlin93?tab=repositories) <br/>
 💬 &nbsp;&nbsp; Ask me about **React、Vue、Node、React Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nuxt** <br/>
 📫 &nbsp;&nbsp; How to reach me **767425412lin@gmail.com**
 
