@@ -46,10 +46,6 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
         href="https://www.w3.org/html/"
         target="_blank"
         style="
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
             padding: 10px;
             border: 1px solid #eaeaea;
             transform: translate(0);
