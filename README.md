@@ -39,68 +39,67 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 - 📫  How to reach me **767425412lin@gmail.com**
 
 
-<div>
-    <h2>frontend</h2>
-    <p style="display: flex; flex-wrap: wrap">
-        <a
-            href="https://www.w3.org/html/"
-            target="_blank"
+<h3 align="left">Languages and Tools:</h3>
+<h2>frontend</h2>
+<p style="display: flex; flex-wrap: wrap">
+    <a
+        href="https://www.w3.org/html/"
+        target="_blank"
+        style="
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            border: 1px solid #eaeaea;
+            transform: translate(0);
+            transition: transform 0.26s, box-shadow 0.26s;
+            z-index: 10;
+            background: #fff;
+            width: 90px;
+        "
+    >
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="60"
+            height="60"
+        />
+<!--             <span
             style="
-                position: relative;
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                padding: 10px;
-                border: 1px solid #eaeaea;
-                transform: translate(0);
-                transition: transform 0.26s, box-shadow 0.26s;
-                z-index: 10;
-                background: #fff;
-                width: 90px;
+                margin-top: 10px;
+                height: 4.5em;
+                width: 100%;
+                overflow: hidden;
+                font-size: 12px;
+                line-height: 1;
+                color: #808695;
             "
         >
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5"
-                width="60"
-                height="60"
-            />
+            HTML5
+        </span> -->
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="60"
+            height="60"
+        />
 <!--             <span
-                style="
-                    margin-top: 10px;
-                    height: 4.5em;
-                    width: 100%;
-                    overflow: hidden;
-                    font-size: 12px;
-                    line-height: 1;
-                    color: #808695;
-                "
-            >
-                HTML5
-            </span> -->
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3"
-                width="60"
-                height="60"
-            />
-<!--             <span
-                style="margin-top: 10px;
-                    height: 4.5em;
-                    width: 100%;
-                    overflow: hidden;
-                    font-size: 12px;
-                    line-height: 1;
-                    color: #808695;"
-            >
-                CSS3
-            </span> -->
-        </a>
-    </p>
-</div>
+            style="margin-top: 10px;
+                height: 4.5em;
+                width: 100%;
+                overflow: hidden;
+                font-size: 12px;
+                line-height: 1;
+                color: #808695;"
+        >
+            CSS3
+        </span> -->
+    </a>
+</p>
 
 
 
