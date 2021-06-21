@@ -30,14 +30,13 @@ Here are some ideas to get you started:
     /></a>
 </p> -->
 
-- 🔭 I’m currently working on **frontend developer** 
-- 🌱 I’m currently learning
-**React Native and Go** 
-- 👨‍💻 All of my projects are available at
+- 🔭  I’m currently working on **frontend developer** 
+- 🌱  I’m currently learning **React Native and Go** 
+- 👨‍💻  All of my projects are available at
 [https://github.com/changlin93?tab=repositories](https://github.com/changlin93?tab=repositories)
-- 💬 Ask me about **React、Vue、Node、React
+- 💬  Ask me about **React、Vue、Node、React
 Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nuxt** 
-- 📫 How to reach me **767425412lin@gmail.com**
+- 📫  How to reach me **767425412lin@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
