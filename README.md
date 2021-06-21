@@ -42,7 +42,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 
 <div>
     <h2>frontend</h2>
-    <div style="display: flex; flex-wrap: wrap">
+    <p style="display: flex; flex-wrap: wrap">
         <a
             href="https://www.w3.org/html/"
             target="_blank"
@@ -101,7 +101,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 CSS3
             </h5>
         </a>
-    </div>
+    </p>
 </div>
 
 
