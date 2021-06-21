@@ -39,7 +39,6 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
 - 📫  How to reach me **767425412lin@gmail.com**
 
 
-
 <div>
     <h2>frontend</h2>
     <p style="display: flex; flex-wrap: wrap">
@@ -58,6 +57,7 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 transition: transform 0.26s, box-shadow 0.26s;
                 z-index: 10;
                 background: #fff;
+                width: 90px;
             "
         >
             <img
@@ -88,15 +88,13 @@ Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nu
                 height="60"
             />
             <span
-                style="
-                    margin-top: 10px;
+                style="margin-top: 10px;
                     height: 4.5em;
                     width: 100%;
                     overflow: hidden;
                     font-size: 12px;
                     line-height: 1;
-                    color: #808695;
-                "
+                    color: #808695;"
             >
                 CSS3
             </span>
