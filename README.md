@@ -30,11 +30,12 @@ Here are some ideas to get you started:
     /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p> -->
 
-🔭  &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
+🔭 &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
 🌱 &nbsp;&nbsp; I’m currently learning **React Native and Go** <br/>
 👨‍💻 &nbsp;&nbsp; All of my projects are available at [repositories](https://github.com/forest-211?tab=repositories) <br/>
-💬 &nbsp;&nbsp; Ask me about **React、Vue、Node、React Native、MongoDB、MySQL、Redis、TypeScript、Go、Jenkins、Nginx、Next、Nuxt、Nest** <br/>
+💬 &nbsp;&nbsp; Ask me about **React、Vue、Node、React Native、TypeScript、Go、Next、Nuxt、Nest** <br/>
 📫 &nbsp;&nbsp; How to reach me **767425412lin@gmail.com**
+:boy: &nbsp;&nbsp; About me
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
