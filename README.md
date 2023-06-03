@@ -12,9 +12,9 @@
         alt="forest-211" />
 <br />
 
-<p>
+<!-- <p>
     <img style="display: block" src="https://github-readme-streak-stats.herokuapp.com/?user=forest-211&"
         alt="forest-211" />
-</p>
+</p> -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
