@@ -1,10 +1,9 @@
 <h1 align="left">Hi, I'm Forest 👋</h1>
-<h3 align="left">A passionate frontend developer from china</h3>
+<h3 align="left">I'm a front-end coder.</h3>
 
-🔭 &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
-🌱 &nbsp;&nbsp; I’m currently learning `React(include Next.js)` `Nest.js` `Go` <br/>
-👨‍💻 &nbsp;&nbsp; All of my projects are available at [repositories](https://github.com/forest-211?tab=repositories) <br/>
-📫 &nbsp;&nbsp; How to reach me **<767425412lin@gmail.com>** <br/>
+- 🌱 &nbsp;&nbsp; I’m currently learning `React(include Next.js)` `Nest.js` `Go`
+- 👨‍💻 &nbsp;&nbsp; All of my projects are available at [repositories](https://github.com/forest-211?tab=repositories)
+- 📫 &nbsp;&nbsp; How to reach me **<767425412lin@gmail.com>**
 
 <p>
     <img style="display: block"
