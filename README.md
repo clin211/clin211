@@ -17,4 +17,4 @@
         alt="forest-211" />
 </p>
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
