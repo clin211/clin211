@@ -7,7 +7,7 @@
 
  <img height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=forest-211&show_icons=true&locale=en&theme=merko&layout=compact≈"
-        alt="forest-211" /><img height="200px"
+        alt="forest-211" /><img height="200px" style="margin-start: 20px"
         src="https://github-readme-stats.vercel.app/api?username=forest-211&show_icons=true&locale=en&theme=merko"
         alt="forest-211" />
 <br />
