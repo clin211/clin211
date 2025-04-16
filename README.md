@@ -7,8 +7,9 @@
 - 💬 Ask me about **HTML,CSS,JavaScript,Node.js,TypeScript,Vue,React,Go**
 - 📫 &nbsp;&nbsp; How to reach me **<767425412lin@gmail.com>**
 
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clin211&layout=compact&show_icons=true&theme=merko&bg_color=#00000f" alt="forest-211" /><span style="width: 20px;height: 100%;background: red;display: inline-block;"></span><img height="160px" src="https://github-readme-stats.vercel.app/api?username=clin211&show_icons=true&locale=en&theme=merko&bg_color=#00000f" alt="clin211" />
+<div>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clin211&layout=compact&show_icons=true&theme=merko&bg_color=#00000f" alt="forest-211" />&nbsp&nbsp<img height="160px" src="https://github-readme-stats.vercel.app/api?username=clin211&show_icons=true&locale=en&theme=merko&bg_color=#00000f" alt="clin211" />
+</div>
 
 <!--<p>
     <img style="display: block" src="https://github-readme-streak-stats.herokuapp.com/?user=clin211&"
