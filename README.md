@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm clin 👋</h1>
 <h3 align="left">I'm a front-end coder.</h3>
 
-- 🌱 &nbsp;&nbsp; I’m currently learning `Go` `MySQL` `Redis`
+- 🌱 &nbsp;&nbsp; I’m currently learning `Go` `PostgreSQL` `MySQL` `Redis`
 - 👨‍💻 &nbsp;&nbsp; All of my projects are available at [repositories](https://github.com/clin211?tab=repositories)
 - 📝 &nbsp;&nbsp; I regularly write articles on [https://www.clin.pro/](https://www.clin.pro)
 - 💬 &nbsp;&nbsp; Ask me about **HTML,CSS,JavaScript,Node.js,TypeScript,Vue,React,Go**
